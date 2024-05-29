@@ -1,0 +1,12 @@
+.thermometer-container {
+    
+
+    position: absolute;
+    bottom: 6rem;
+    left: 12rem
+
+  }
+  
+  .thermometer-icon {
+    font-size: 75px !important;
+  }
