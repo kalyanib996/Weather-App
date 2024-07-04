@@ -1,7 +1,7 @@
 .thermometer-container {
     
 
-    position: absolute;
+    position: relative;
     bottom: 6rem;
     left: 12rem
 
